@@ -1,0 +1,12 @@
+{
+  "default_profile": {
+    "packet_manager_list_command": [
+      "pacman",
+      "-Qq"
+    ],
+    "blacklist_packets": [],
+    "blacklist_packets_file": "",
+    "whitelist_packtes": [],
+    "whitelist_packets_file": ""
+  }
+}
